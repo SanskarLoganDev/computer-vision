@@ -8,5 +8,5 @@ The material assumes no pre-existing knowledge in programming but some familiari
 
 ## Running the notebooks
 
-You don't need to install anything on your computer to interactively run the notebooks. You can use the badge at the top of this Readme to run the notebooks either in the classical Jupyter environment via MyBinder or as Google Colab notebooks. The Mybinder sessions are only temporary, i.e. changes you make to notebooks or new notebooks are *erased* between sessions. When using Colab, to keep your changes, you need to *save a copy* of the notebook you are modifying. The saving is done in your Google Drive.
+You don't need to install anything on your computer to interactively run the notebooks. You can use the badge at the top of this Readme to run the notebooks as Google Colab notebooks. When using Colab, to keep your changes, you need to *save a copy* of the notebook you are modifying. The saving is done in your Google Drive.
 
