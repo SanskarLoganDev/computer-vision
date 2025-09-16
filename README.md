@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17g0d5lL__vr0yexLGkqBGtMZfZQwDXLf?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SanskarLoganDev/computer-vision/blob/main)
 
 # Image processing for beginners
 
